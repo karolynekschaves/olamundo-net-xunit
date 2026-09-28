@@ -1,0 +1,14 @@
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\bin\Debug\net10.0\MeuPrimeiroTeste.App.exe
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\bin\Debug\net10.0\MeuPrimeiroTeste.App.deps.json
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\bin\Debug\net10.0\MeuPrimeiroTeste.App.runtimeconfig.json
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\bin\Debug\net10.0\MeuPrimeiroTeste.App.dll
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\bin\Debug\net10.0\MeuPrimeiroTeste.App.pdb
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.AssemblyInfoInputs.cache
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.AssemblyInfo.cs
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.dll
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\refint\MeuPrimeiroTeste.App.dll
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.pdb
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\MeuPrimeiroTeste.App.genruntimeconfig.cache
+C:\Users\karol\Documentos\OlaMundoNet\MeuPrimeiroTeste.App\obj\Debug\net10.0\ref\MeuPrimeiroTeste.App.dll
